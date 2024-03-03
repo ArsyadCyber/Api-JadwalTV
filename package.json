@@ -2,12 +2,12 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Arsyad",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",

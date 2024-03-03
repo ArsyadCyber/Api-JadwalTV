@@ -1,17 +1,22 @@
 const express = require('express');
 const app = express();
-const PORT = 3000;
-const { main } = require('./index'); // Pastikan path benar
+const port = 3000; // Port yang akan digunakan
+const { main } = require('./index');
 
-// Middleware untuk melayani file JSON
-app.use('/api/jadwal', express.static('jadwaltv.json'));
+const fs = require('fs');
 
-// Jalankan fungsi main untuk melakukan scraping saat server dijalankan
-main().then(() => {
-  console.log('Scraping selesai, server siap dijalankan.');
-  app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
-  });
-}).catch(error => {
-  console.error('Terjadi kesalahan saat melakukan scraping:', error);
+const readSchedule = () => {
+  const jsonData = fs.readFileSync('jadwaltv.json');
+  return JSON.parse(jsonData);
+};
+
+app.get('/api/jadwal', (req, res) => {
+  const schedule = readSchedule();
+  res.json(schedule);
+});
+
+main();
+
+app.listen(port, () => {
+  console.log(`Server berjalan pada http://localhost:${port}`);
 });
