@@ -9,11 +9,11 @@
   "routes": [
     {
       "src": "/api/jadwal",
-      "dest": "server.js"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "server.js"
+      "dest": "/jadwaltv.json",
+      "methods": ["GET"],
+      "headers": {
+        "Content-Type": "application/json"
+      }
     }
   ]
 }
