@@ -1,22 +1,27 @@
 const express = require('express');
 const app = express();
-const port = 3000; // Port yang akan digunakan
-const { main } = require('./index');
+const { main } = require('./index'); // Pastikan ini sesuai dengan lokasi file index.js Anda
 
-const fs = require('fs');
-
-const readSchedule = () => {
-  const jsonData = fs.readFileSync('jadwaltv.json');
-  return JSON.parse(jsonData);
-};
-
-app.get('/api/jadwal', (req, res) => {
-  const schedule = readSchedule();
-  res.json(schedule);
-});
-
+// Panggil fungsi main untuk menjalankan scraping saat server dimulai
 main();
 
-app.listen(port, () => {
-  console.log(`Server berjalan pada http://localhost:${port}`);
+app.get('/api/jadwal', (req, res) => {
+  const fs = require('fs');
+
+  // Membaca file jadwaltv.json dan mengirimkan isi sebagai response
+  fs.readFile('jadwaltv.json', (err, data) => {
+    if (err) {
+      res.status(500).send('Error reading schedule file');
+      return;
+    }
+    res.setHeader('Content-Type', 'application/json');
+    res.send(data);
+  });
 });
+
+// Vercel akan mengatur port secara otomatis
+app.listen(process.env.PORT || 3000, () => {
+  console.log('Server is running');
+});
+
+module.exports = app;
