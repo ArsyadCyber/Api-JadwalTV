@@ -1,11 +1,12 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+    "name": "nama-aplikasi-anda",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js",
+      "build": "echo \"Tidak ada operasi build yang diperlukan untuk Express\"",
+      "vercel-build": "npm run build"
+    },
   "keywords": [],
   "author": "Arsyad",
   "license": "ISC",
@@ -15,5 +16,8 @@
     "express": "^4.18.3",
     "node-cron": "^3.0.3",
     "node-fetch": "^3.2.6"
+  }
+  "engines": {
+    "node": "18.x"
   }
 }

@@ -74,10 +74,7 @@ cron.schedule('0 18 * * *', () => {
   timezone: "Asia/Jakarta"
 });
 
+module.exports = { main };
+
 // Jalankan fungsi utama untuk pertama kali
 main();
-
-module.exports = {
-  main,
-  // Fungsi lain yang mungkin Anda ingin ekspor
-};

@@ -1,16 +1,16 @@
 {
   "SCTV": [
     {
-      "time": "00:00WIB",
-      "title": "Luton Town vs. Aston Villa : Premier League Soccer"
+      "time": "01:00WIB",
+      "title": "SINEMA MALAM \"KOMANDAN PLETON JOMBLO IN LOVE\""
     },
     {
-      "time": "02:45WIB",
-      "title": "SINEMA DINI HARI \"KETIKA CINTA HARUS JUJUR\""
+      "time": "02:30WIB",
+      "title": "Cinta Terlanjur Basah"
     },
     {
       "time": "04:00WIB",
-      "title": "BARAKALLAH"
+      "title": "Barakallah"
     },
     {
       "time": "04:30WIB",
@@ -22,7 +22,7 @@
     },
     {
       "time": "06:00WIB",
-      "title": "Point Of View"
+      "title": "Hot Shot"
     },
     {
       "time": "06:30WIB",
@@ -38,11 +38,11 @@
     },
     {
       "time": "08:00WIB",
-      "title": "FTV Pagi Spesial : Cinta Miss Kambing Lo Jual Gue Beli"
+      "title": "FTV Pagi Spesial"
     },
     {
       "time": "10:00WIB",
-      "title": "FTV Pagi : Omg Mamaku Cantiknya No Medicine"
+      "title": "FTV Pagi"
     },
     {
       "time": "12:00WIB",
@@ -50,7 +50,7 @@
     },
     {
       "time": "12:30WIB",
-      "title": "FTV Siang : Pura Pura Serius Justru Bikin Konfyus"
+      "title": "FTV Siang"
     },
     {
       "time": "14:30WIB",
@@ -66,37 +66,41 @@
     },
     {
       "time": "20:00WIB",
-      "title": "Tertawan hati"
+      "title": "Tertawan Hati"
     },
     {
       "time": "21:45WIB",
       "title": "Di Antara Dua Cinta"
     },
     {
-      "time": "23:00WIB",
-      "title": "FTV Primetime Berburu Calon Pengantin"
+      "time": "23:15WIB",
+      "title": "Dua Konglomerat Jatuh Cinta"
     }
   ],
   "Indosiar": [
     {
-      "time": "01:30WIB",
-      "title": "Mega Film Asia : Tai Chi Zero"
+      "time": "01:00WIB",
+      "title": "Mega Film Asia : 18 Arhats of Shaolin Temple"
     },
     {
-      "time": "03:00WIB",
-      "title": "Mega Film Asia : Tai Chi Hero"
+      "time": "02:30WIB",
+      "title": "Mega Film Asia : Kiss of The Dragon"
+    },
+    {
+      "time": "04:00WIB",
+      "title": "Patroli Malam"
     },
     {
       "time": "04:30WIB",
       "title": "Fokus Pagi"
     },
     {
-      "time": "06:00WIB",
-      "title": "Magic 5"
-    },
-    {
       "time": "13.00WIB",
       "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal INDOSIAR"
+    },
+    {
+      "time": "06:00WIB",
+      "title": "Magic 5"
     },
     {
       "time": "07:30WIB",
@@ -104,11 +108,11 @@
     },
     {
       "time": "09:00WIB",
-      "title": "Pintu Berkah"
+      "title": "Pintu Berkah Pagi Spesial"
     },
     {
       "time": "10:00WIB",
-      "title": "Best Kiss"
+      "title": "Kiss Pagi"
     },
     {
       "time": "11:00WIB",
@@ -120,15 +124,15 @@
     },
     {
       "time": "12:00WIB",
-      "title": "Istri yang Dijebak"
+      "title": "29 Hari Untuk Menyelamatkan Rumah Tangga Yang Diambang Kehancuran"
     },
     {
       "time": "13:00WIB",
-      "title": "Ada Rahasia Di Balik Suamiku yang Menduakanku"
+      "title": "Trauma Membuat Istriku Jadi Wanita yang Posesif"
     },
     {
       "time": "14:30WIB",
-      "title": "Persebaya vs PSS Sleman - BRI Liga 1"
+      "title": "PS Barito Putera VS Bali United FC - BRI Liga 1"
     },
     {
       "time": "17:00WIB",
@@ -136,7 +140,7 @@
     },
     {
       "time": "18:30WIB",
-      "title": "RANS Nusantara FC vs Persib Bandung - BRI Liga 1"
+      "title": "Persis Solo VS PSM Makassar - BRI Liga 1"
     },
     {
       "time": "21:00WIB",
@@ -144,7 +148,7 @@
     },
     {
       "time": "23:00WIB",
-      "title": "Mega Film Asia : Thunderbolt"
+      "title": "Mega Film Asia : Rumble in The Bronx"
     }
   ],
   "ANTV": [
@@ -154,6 +158,10 @@
     },
     {
       "time": "02:00WIB",
+      "title": "UFC Fight Night"
+    },
+    {
+      "time": "02:30WIB",
       "title": "Anandhi"
     },
     {
@@ -161,16 +169,20 @@
       "title": "Senyum Iman"
     },
     {
-      "time": "04:30WIB",
-      "title": "Kasus Viral"
-    },
-    {
       "time": "13.00WIB",
       "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal ANTV"
     },
     {
+      "time": "04:30WIB",
+      "title": "Shy Shy Cat"
+    },
+    {
+      "time": "05:00WIB",
+      "title": "Cakrawala"
+    },
+    {
       "time": "05:30WIB",
-      "title": "Shiva"
+      "title": "Kasus Viral"
     },
     {
       "time": "06:30WIB",
@@ -182,11 +194,11 @@
     },
     {
       "time": "08:30WIB",
-      "title": "Write Me a Love Song"
+      "title": "Masquerade"
     },
     {
-      "time": "10:30WIB",
-      "title": "MEGA BOLLYWOOD DHOOM 2"
+      "time": "09:30WIB",
+      "title": "Kuch Kuch Hota Hai"
     },
     {
       "time": "13:00WIB",
@@ -197,25 +209,25 @@
       "title": "Cinta Untuk Guddan"
     },
     {
-      "time": "17:30WIB",
+      "time": "18:00WIB",
       "title": "Bunga Kembar Di Tepi Jalan"
     },
     {
       "time": "19:00WIB",
-      "title": "Lima Harimau Nusantara"
+      "title": "Golok Setan"
     },
     {
       "time": "21:00WIB",
-      "title": "Saga of the Phoenix"
+      "title": "Ajian Ratu Laut Kidul"
     },
     {
-      "time": "23:00WIB",
-      "title": "Setan Budeg"
+      "time": "22:30WIB",
+      "title": "A Chinese Ghost Story"
     }
   ],
   "GTV": [
     {
-      "time": "00:01WIB",
+      "time": "00:15WIB",
       "title": "Razia"
     },
     {
@@ -228,31 +240,35 @@
     },
     {
       "time": "05:30WIB",
-      "title": "Zak Storm"
+      "title": "Big Movies Candyland"
     },
     {
       "time": "13.00WIB",
       "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal GTV"
     },
     {
-      "time": "06:30WIB",
-      "title": "SpongeBob SquarePants Movie"
+      "time": "09:00WIB",
+      "title": "PAW Patrol"
+    },
+    {
+      "time": "10:00WIB",
+      "title": "Buletin iNews Siang (L)"
     },
     {
       "time": "10:30WIB",
-      "title": "Buletin iNews Siang (L)"
+      "title": "Obsesi (L)"
     },
     {
       "time": "11:00WIB",
       "title": "SpongeBob SquarePants Movie"
     },
     {
-      "time": "14:30WIB",
-      "title": "Traktir Boss!!"
+      "time": "15:00WIB",
+      "title": "CFD (Cari Faedah)"
     },
     {
       "time": "15:30WIB",
-      "title": "SpongeBob SquarePants Movie"
+      "title": "Nobita Dan Kerajaan Burung"
     },
     {
       "time": "17:00WIB",
@@ -268,33 +284,37 @@
     },
     {
       "time": "19:30WIB",
-      "title": "Giant Python"
+      "title": "KV +62"
     },
     {
-      "time": "21:00WIB",
+      "time": "20:00WIB",
+      "title": "Akhirnya Datang Juga"
+    },
+    {
+      "time": "21:30WIB",
       "title": "Ever Night"
     },
     {
-      "time": "22:00WIB",
-      "title": "Detective Dee: The Sly Red-Eye"
+      "time": "22:30WIB",
+      "title": "Jurassic Revival"
     }
   ],
   "Inews": [
     {
       "time": "00:30WIB",
+      "title": "GX"
+    },
+    {
+      "time": "01:00WIB",
       "title": "Padamu Negeri"
     },
     {
-      "time": "00:33WIB",
-      "title": "iNews Sore"
-    },
-    {
-      "time": "01:30WIB",
-      "title": "iNews Room"
+      "time": "01:15WIB",
+      "title": "AFC U-20 Women's Asian Cup 2024"
     },
     {
       "time": "02:30WIB",
-      "title": "iNews Malam"
+      "title": "iNews Sore"
     },
     {
       "time": "13.00WIB",
@@ -303,10 +323,6 @@
     {
       "time": "03:30WIB",
       "title": "Realita"
-    },
-    {
-      "time": "04:00WIB",
-      "title": "iNews Sore"
     },
     {
       "time": "04:18WIB",
@@ -318,31 +334,47 @@
     },
     {
       "time": "06:00WIB",
-      "title": "Happy And Healthy Life"
+      "title": "Special Report"
     },
     {
-      "time": "07:30WIB",
-      "title": "iBreak: Ayam Iris Crispy"
+      "time": "07:00WIB",
+      "title": "Morning Update"
     },
     {
       "time": "08:00WIB",
-      "title": "AB+"
+      "title": "Terekam"
     },
     {
-      "time": "09:00WIB",
+      "time": "08:30WIB",
+      "title": "Lapor Polisi! (L)"
+    },
+    {
+      "time": "09:30WIB",
       "title": "iNews Today (L)"
     },
     {
-      "time": "10:30WIB",
+      "time": "11:00WIB",
       "title": "iNews Siang (L)"
     },
     {
       "time": "12:00WIB",
-      "title": "Cahaya Hati Indonesia"
+      "title": "Kawal Suara Rakyat (L)"
     },
     {
-      "time": "14:00WIB",
-      "title": "iSeleb"
+      "time": "12:30WIB",
+      "title": "Silet"
+    },
+    {
+      "time": "13:15WIB",
+      "title": "Intens Reborn"
+    },
+    {
+      "time": "14:15WIB",
+      "title": "iSeleb (L)"
+    },
+    {
+      "time": "14:45WIB",
+      "title": "AFC U-20 Women's Asian Cup 2024"
     },
     {
       "time": "17:00WIB",
@@ -350,40 +382,36 @@
     },
     {
       "time": "19:00WIB",
-      "title": "iNews Room Weekend (L)"
+      "title": "iNews Room (L)"
     },
     {
-      "time": "20:30WIB",
-      "title": "iNews Prime (L)"
+      "time": "20:00WIB",
+      "title": "Inside"
     },
     {
       "time": "21:45WIB",
       "title": "iNews Malam (L)"
     },
     {
-      "time": "23:00WIB",
-      "title": "New Top Files"
-    },
-    {
-      "time": "23:45WIB",
-      "title": "Sergap"
+      "time": "22:45WIB",
+      "title": "AFC 2024 Quarter Final : Al Ain vs Al Nassr"
     }
   ],
   "Kompas": [
     {
-      "time": "00:00WIB",
-      "title": "Sapa Indonesia Malam"
-    },
-    {
-      "time": "01:00WIB",
-      "title": "Pop News"
-    },
-    {
-      "time": "01:30WIB",
-      "title": "Kilas Kompas"
-    },
-    {
       "time": "02:00WIB",
+      "title": "SIGN OFF"
+    },
+    {
+      "time": "07:00WIB",
+      "title": "Sapa Indonesia Pagi"
+    },
+    {
+      "time": "09:30WIB",
+      "title": "Bincang Kita"
+    },
+    {
+      "time": "10:00WIB",
       "title": "Berita Utama"
     },
     {
@@ -391,60 +419,24 @@
       "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal KOMPAS TV"
     },
     {
-      "time": "03:00WIB",
-      "title": "Kompas Malam"
-    },
-    {
-      "time": "04:00WIB",
-      "title": "Kompas Sport Pagi"
-    },
-    {
-      "time": "04:30WIB",
-      "title": "Kompas Pagi Akhir Pekan"
-    },
-    {
-      "time": "07:00WIB",
-      "title": "Sapa Indonesia Pagi"
-    },
-    {
-      "time": "08:30WIB",
-      "title": "News Or Hoax"
-    },
-    {
-      "time": "09:00WIB",
-      "title": "Perempuan Nusantara"
-    },
-    {
-      "time": "09:30WIB",
-      "title": "Pop News"
-    },
-    {
-      "time": "10:00WIB",
-      "title": "Kilas Kompas"
-    },
-    {
-      "time": "10:30WIB",
-      "title": "Jalan - Jalan"
-    },
-    {
       "time": "11:00WIB",
       "title": "Kompas Siang"
     },
     {
-      "time": "12:30WIB",
-      "title": "Kompas Sport Weekend"
-    },
-    {
       "time": "13:00WIB",
-      "title": "Kalam Hati"
+      "title": "Sapa Indonesia Siang"
     },
     {
       "time": "14:00WIB",
-      "title": "Berita Utama"
+      "title": "Pop News"
+    },
+    {
+      "time": "14:30WIB",
+      "title": "Rumah Pemilu"
     },
     {
       "time": "15:00WIB",
-      "title": "Gelar Perkara"
+      "title": "Indonesia Update"
     },
     {
       "time": "16:00WIB",
@@ -452,31 +444,23 @@
     },
     {
       "time": "17:30WIB",
-      "title": "Kompas Sepekan"
-    },
-    {
-      "time": "18:00WIB",
-      "title": "60' Spesial Report"
-    },
-    {
-      "time": "19:00WIB",
       "title": "Sapa Indonesia Malam"
     },
     {
-      "time": "20:00WIB",
+      "time": "19:30WIB",
       "title": "Berita Utama"
     },
     {
-      "time": "21:00WIB",
+      "time": "20:30WIB",
+      "title": "Ni Luh"
+    },
+    {
+      "time": "21:30WIB",
       "title": "Kompas Malam"
     },
     {
-      "time": "22:00WIB",
-      "title": "Suci Bar-Bar Show"
-    },
-    {
-      "time": "23:00WIB",
-      "title": "Kompas Sepekan"
+      "time": "22:30WIB",
+      "title": "Berita Utama"
     },
     {
       "time": "23:30WIB",
@@ -486,15 +470,15 @@
   "Metro": [
     {
       "time": "00:05WIB",
-      "title": "Untold Story"
+      "title": "Authentic Indonesia"
     },
     {
       "time": "00:30WIB",
       "title": "Prime Time News"
     },
     {
-      "time": "02:30WIB",
-      "title": "Metro This Week"
+      "time": "02:05WIB",
+      "title": "Q & A"
     },
     {
       "time": "03:05WIB",
@@ -514,35 +498,23 @@
     },
     {
       "time": "06:30WIB",
-      "title": "Euromax"
-    },
-    {
-      "time": "07:05WIB",
-      "title": "Dunia Kita"
+      "title": "Editorial Media Indonesia"
     },
     {
       "time": "07:30WIB",
-      "title": "Melihat Indonesia"
-    },
-    {
-      "time": "08:05WIB",
-      "title": "Journey"
-    },
-    {
-      "time": "08:30WIB",
-      "title": "Showbizz"
-    },
-    {
-      "time": "09:30WIB",
       "title": "Go Healthy"
     },
     {
-      "time": "10:05WIB",
-      "title": "Untold Story"
+      "time": "08:05WIB",
+      "title": "Metro Xinwen"
+    },
+    {
+      "time": "08:30WIB",
+      "title": "Selamat Pagi Indonesia"
     },
     {
       "time": "10:30WIB",
-      "title": "Realita"
+      "title": "Go Healthy"
     },
     {
       "time": "11:05WIB",
@@ -550,7 +522,7 @@
     },
     {
       "time": "13:05WIB",
-      "title": "Juragan Jaman Now"
+      "title": "Kontroversi"
     },
     {
       "time": "14:05WIB",
@@ -558,7 +530,11 @@
     },
     {
       "time": "15:05WIB",
-      "title": "Showbizz"
+      "title": "Zona Bisnis"
+    },
+    {
+      "time": "15:30WIB",
+      "title": "Follow-Up"
     },
     {
       "time": "16:05WIB",
@@ -569,16 +545,20 @@
       "title": "Prime Time News"
     },
     {
-      "time": "19:05WIB",
-      "title": "Q & A"
-    },
-    {
       "time": "20:05WIB",
       "title": "Top News"
     },
     {
       "time": "21:05WIB",
-      "title": "Kick Andy Double Check"
+      "title": "Editorial Malam MGN"
+    },
+    {
+      "time": "21:30WIB",
+      "title": "Realita"
+    },
+    {
+      "time": "22:05WIB",
+      "title": "Untold Story"
     },
     {
       "time": "22:30WIB",
@@ -586,17 +566,13 @@
     },
     {
       "time": "23:30WIB",
-      "title": "Metro This Week"
+      "title": "Follow-Up"
     }
   ],
   "MNCTV": [
     {
-      "time": "01:00WIB",
+      "time": "00:30WIB",
       "title": "Suparman Reborn"
-    },
-    {
-      "time": "03:00WIB",
-      "title": "Bimbingan Rohani Kristen"
     },
     {
       "time": "03:30WIB",
@@ -607,32 +583,36 @@
       "title": "Seleb On News 2024"
     },
     {
+      "time": "05:30WIB",
+      "title": "Siraman Qolbu, Mamah Dedeh"
+    },
+    {
       "time": "13.00WIB",
       "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal MNCTV"
     },
     {
-      "time": "05:30WIB",
-      "title": "Astronot Ciliwung"
-    },
-    {
       "time": "06:30WIB",
-      "title": "Mechamato"
+      "title": "Selamat Pagi Upin & Ipin"
     },
     {
-      "time": "07:00WIB",
-      "title": "Bima S"
+      "time": "08:00WIB",
+      "title": "Sahabat Selamanya Upin & Ipin"
     },
     {
-      "time": "07:30WIB",
+      "time": "10:00WIB",
+      "title": "Lintas iNews Siang"
+    },
+    {
+      "time": "11:00WIB",
+      "title": "Jurnal Lintas iNews Siang"
+    },
+    {
+      "time": "12:00WIB",
       "title": "Upin & Ipin"
     },
     {
-      "time": "09:00WIB",
-      "title": "Kiko"
-    },
-    {
-      "time": "13:30WIB",
-      "title": "Upin & Ipin"
+      "time": "17:45WIB",
+      "title": "Upin & Ipin Bermula"
     },
     {
       "time": "19:00WIB",
@@ -644,7 +624,7 @@
     },
     {
       "time": "23:00WIB",
-      "title": "Uang Kaget Lagi"
+      "title": "Uang Kaget Lagi Pesta Yogyakarta"
     }
   ],
   "Moji": [
@@ -653,24 +633,20 @@
       "title": "Tercyduk"
     },
     {
-      "time": "00:30WIB",
-      "title": "MAGAZINE UEFA EROPA LEAGUE"
-    },
-    {
       "time": "01:00WIB",
-      "title": "PROLIGA 2023 PUTRA"
+      "title": "Proliga 2023"
     },
     {
       "time": "03:00WIB",
-      "title": "PROLIGA 2023 PUTRI"
-    },
-    {
-      "time": "13.00WIB",
-      "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal MOJI"
+      "title": "Proliga 2023"
     },
     {
       "time": "05:00WIB",
       "title": "Moji Sport"
+    },
+    {
+      "time": "13.00WIB",
+      "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal MOJI"
     },
     {
       "time": "06:15WIB",
@@ -689,31 +665,31 @@
       "title": "Netizen Update"
     },
     {
-      "time": "09:30WIB",
+      "time": "10:00WIB",
       "title": "Bisik Pagi"
     },
     {
-      "time": "10:30WIB",
-      "title": "Qari Cilik Indonesia Season 3"
+      "time": "11:00WIB",
+      "title": "TERCYDUK"
     },
     {
       "time": "12:30WIB",
-      "title": "Putri: Syntesis Agro Volley Club vs Ivontri Magetan | Perebutan Tempat Ketiga - Seri Magetan - Nusantara Cup"
+      "title": "SERIES SIANG TERCYDUK"
     },
     {
-      "time": "14:45WIB",
-      "title": "Putra: Syntesis Agro Volley Club vs Tebu Alam Magetan | Perebutan Tempat Ketiga - Seri Magetan - Nusantara Cup"
+      "time": "14:30WIB",
+      "title": "TERCYDUK"
     },
     {
-      "time": "16:45WIB",
-      "title": "Putri: Petrokimia Academy Volleyball vs Vita Solo | Final - Seri Magetan - Nusantara Cup"
+      "time": "16:15WIB",
+      "title": "UNGKAP"
     },
     {
-      "time": "18:45WIB",
-      "title": "Putra: SKN BDK vs Surabaya Flame | Final - Seri Magetan - Nusantara Cup"
+      "time": "18:00WIB",
+      "title": "Volleyball"
     },
     {
-      "time": "21:00WIB",
+      "time": "20:00WIB",
       "title": "Chhoti Sardarni"
     },
     {
@@ -724,19 +700,19 @@
   "Net": [
     {
       "time": "00:30WIB",
-      "title": "One Championship Warrior"
+      "title": "ONE Friday Fights 27"
     },
     {
       "time": "02:00WIB",
-      "title": "NET STORY: TONIGHT SHOW"
+      "title": "KURULUS OSMAN SEASON 2"
     },
     {
       "time": "03:00WIB",
-      "title": "Di Balik Mitos"
+      "title": "TAWA TAWA SANTAI"
     },
     {
       "time": "04:00WIB",
-      "title": "Kurulus: Osman"
+      "title": "Di Balik Mitos"
     },
     {
       "time": "13.00WIB",
@@ -744,80 +720,84 @@
     },
     {
       "time": "05:00WIB",
-      "title": "Top Spot"
+      "title": "TOP SPOT"
     },
     {
-      "time": "06:30WIB",
-      "title": "Detective Conan"
+      "time": "06:00WIB",
+      "title": "INILAH KISAHNYA"
     },
     {
-      "time": "08:30WIB",
+      "time": "06:55WIB",
+      "title": "Fakta +62"
+    },
+    {
+      "time": "07:55WIB",
+      "title": "SENSASI"
+    },
+    {
+      "time": "08:55WIB",
       "title": "Makan Enak"
     },
     {
-      "time": "10:30WIB",
-      "title": "Masak Gesss!!!"
+      "time": "09:55WIB",
+      "title": "NET. DRAKOR SARANGHAE: THE GOOD WITCH"
     },
     {
-      "time": "11:00WIB",
+      "time": "11:25WIB",
       "title": "Masakuy"
     },
     {
-      "time": "12:00WIB",
-      "title": "KULINER VIRAL"
+      "time": "12:55WIB",
+      "title": "KEAJAIBAN DUNIA"
     },
     {
-      "time": "13:00WIB",
-      "title": "Koki Ransel"
+      "time": "14:05WIB",
+      "title": "BAHAGIA LANGSUNG TUNAI"
     },
     {
-      "time": "14:00WIB",
-      "title": "Hello Jadoo"
+      "time": "14:55WIB",
+      "title": "Fakta Terkini"
     },
     {
-      "time": "15:30WIB",
-      "title": "Shinbi's House"
+      "time": "15:55WIB",
+      "title": "MASJID YANG TAK DIRINDUKAN"
     },
     {
-      "time": "17:00WIB",
-      "title": "Clean With Passion For Now : Net Drakor Daebak"
+      "time": "16:55WIB",
+      "title": "NET. ASIA PRIME: PRINCESS HOURS"
     },
     {
-      "time": "18:00WIB",
-      "title": "Princess Hours"
+      "time": "18:30WIB",
+      "title": "MASAK GESSS!!!"
     },
     {
       "time": "19:00WIB",
-      "title": "Keajaiban Dunia"
+      "title": "TOP SPOT"
     },
     {
-      "time": "20:00WIB",
-      "title": "Top Spot"
+      "time": "21:00WIB",
+      "title": "Main Hakim Sendiri"
     },
     {
-      "time": "21:30WIB",
-      "title": "Tonight Show"
-    },
-    {
-      "time": "22:30WIB",
-      "title": "I See Dead People"
+      "time": "22:00WIB",
+      "title": "NET SINEMA: HANTU TANAH KUSIR"
     }
   ],
   "RCTI": [
     {
-      "time": "00:01WIB",
-      "title": "Men In Black 2"
-    },
-    {
-      "time": "01:45WIB",
-      "title": "Basah-Basah Cinta"
+      "time": "00:45WIB",
+      "title": "Jatuh Cinta Dalam Air Rado"
     },
     {
       "time": "02:00WIB",
       "title": "Mega Sinema Malam"
     },
     {
-      "time": "03:15WIB",
+      "time": "02:30WIB",
+      "title": "Putri Lele Dan Pangeran Rock"
+    },
+    {
+      "time": "03:30WIB",
       "title": "Koplak"
     },
     {
@@ -826,10 +806,6 @@
     },
     {
       "time": "04:00WIB",
-      "title": "Mujizat Itu Nyata"
-    },
-    {
-      "time": "04:30WIB",
       "title": "Seputar iNews Pagi"
     },
     {
@@ -841,20 +817,12 @@
       "title": "Go Spot"
     },
     {
-      "time": "08:00WIB",
-      "title": "Kiko"
+      "time": "08:15WIB",
+      "title": "Trending Banget Loh (TBL)"
     },
     {
-      "time": "08:30WIB",
-      "title": "Doraemon Spesial"
-    },
-    {
-      "time": "09:00WIB",
-      "title": "Ninja Hattori S1"
-    },
-    {
-      "time": "11:00WIB",
-      "title": "Barista"
+      "time": "10:00WIB",
+      "title": "Silet"
     },
     {
       "time": "11:45WIB",
@@ -862,6 +830,10 @@
     },
     {
       "time": "12:30WIB",
+      "title": "Rumah Bulekkk"
+    },
+    {
+      "time": "13:45WIB",
       "title": "Si Doel Anak Sekolahan S3"
     },
     {
@@ -873,12 +845,12 @@
       "title": "Tukang Bubur Pengen Naik Haji"
     },
     {
-      "time": "20:45WIB",
+      "time": "20:15WIB",
       "title": "Cinta Tanpa Karena"
     },
     {
-      "time": "23:00WIB",
-      "title": "Yang Serem Dilarang Mendekat"
+      "time": "21:30WIB",
+      "title": "X-Factor Indonesia 2023 (L)"
     }
   ],
   "RTV": [
@@ -895,109 +867,65 @@
       "title": "Jari Sakti Somad"
     },
     {
-      "time": "02:30WIB",
-      "title": "Safar"
+      "time": "02:00WIB",
+      "title": "Unik Enak"
     },
     {
       "time": "13.00WIB",
       "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal RTV"
     },
     {
-      "time": "03:00WIB",
-      "title": "Bugged"
+      "time": "02:30WIB",
+      "title": "Seru! Semua Harus Tau"
     },
     {
-      "time": "04:00WIB",
-      "title": "Superbook"
-    },
-    {
-      "time": "04:30WIB",
-      "title": "Kongsuni"
-    },
-    {
-      "time": "06:00WIB",
-      "title": "Si Anabul"
-    },
-    {
-      "time": "06:30WIB",
-      "title": "Pokmon XYZ"
-    },
-    {
-      "time": "08:30WIB",
-      "title": "Cerita Anak Indonesia Yoo Yoo Yoo"
-    },
-    {
-      "time": "09:00WIB",
-      "title": "Go Astro Boy Go !"
-    },
-    {
-      "time": "10:00WIB",
+      "time": "03:30WIB",
       "title": "Super Wings"
     },
     {
-      "time": "12:30WIB",
-      "title": "Pokmon Master Journeys: The Series"
+      "time": "04:30WIB",
+      "title": "Mina Mila"
     },
     {
-      "time": "13:30WIB",
-      "title": "Boboiboy"
+      "time": "05:30WIB",
+      "title": "Lensa Indonesia Pagi"
     },
     {
-      "time": "15:30WIB",
-      "title": "Tobot Galaxy Detectives"
+      "time": "10:00WIB",
+      "title": "SIGN OFF"
     },
     {
-      "time": "16:30WIB",
-      "title": "Rainbow Ruby"
+      "time": "13:00WIB",
+      "title": "Edu & Papo"
     },
     {
-      "time": "17:30WIB",
-      "title": "Tendangan Halilintar"
-    },
-    {
-      "time": "18:00WIB",
-      "title": "Boboiboy Galaxy"
-    },
-    {
-      "time": "19:00WIB",
-      "title": "Adit Sopo Jarwo"
+      "time": "14:00WIB",
+      "title": "SIGN OFF"
     },
     {
       "time": "19:30WIB",
       "title": "Ejen Ali"
     },
     {
-      "time": "21:00WIB",
-      "title": "Seru! Semua Harus Tau"
-    },
-    {
       "time": "21:30WIB",
-      "title": "Kompilasi Komedi : Kokom"
-    },
-    {
-      "time": "22:00WIB",
-      "title": "Sangat Tidak Biasa"
-    },
-    {
-      "time": "23:00WIB",
-      "title": "Chuang Asia"
+      "title": "SIGN OFF"
     }
   ],
   "Trans7": [
     {
-      "time": "00:30WIB",
-      "title": "To Be Announced"
+      "time": "00:00WIB",
+      "title": "Sport7"
     },
     {
-      "time": "01:15WIB",
-      "title": "Best Fishing"
+      "time": "00:45WIB",
+      "title": "Misteri Dunia"
     },
     {
-      "time": "02:00WIB",
-      "title": "SIGN OFF"
+      "time": "01:30WIB",
+      "title": "The Police"
     },
     {
-      "time": "06:45WIB",
+      "time": "07:00WIB",
       "title": "Spotlite"
     },
     {
@@ -1005,7 +933,7 @@
       "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal TRANS7"
     },
     {
-      "time": "07:45WIB",
+      "time": "08:00WIB",
       "title": "Selebrita Pagi"
     },
     {
@@ -1014,7 +942,7 @@
     },
     {
       "time": "09:30WIB",
-      "title": "Selebrita Heits"
+      "title": "OMG"
     },
     {
       "time": "10:15WIB",
@@ -1034,7 +962,7 @@
     },
     {
       "time": "13:30WIB",
-      "title": "Jejak Anak Negeri"
+      "title": "Indonesiaku"
     },
     {
       "time": "14:15WIB",
@@ -1045,7 +973,7 @@
       "title": "Jejak Si Gundul"
     },
     {
-      "time": "16:15WIB",
+      "time": "16:00WIB",
       "title": "Makan Receh"
     },
     {
@@ -1061,30 +989,34 @@
       "title": "Secret Story"
     },
     {
-      "time": "19:30WIB",
+      "time": "19:45WIB",
+      "title": "POV - Pasti Obrolan Viral"
+    },
+    {
+      "time": "20:15WIB",
       "title": "Arisan"
     },
     {
-      "time": "21:15WIB",
-      "title": "3 Tahun Kerja : Lapor Pak!"
+      "time": "21:30WIB",
+      "title": "Lapor Pak!"
     },
     {
       "time": "22:45WIB",
       "title": "Krim Malam"
     },
     {
-      "time": "23:30WIB",
-      "title": "Redaksi Malam"
+      "time": "23:00WIB",
+      "title": "Misteri Dunia"
     }
   ],
   "TransTV": [
     {
       "time": "01:30WIB",
-      "title": "CNN Tech News"
+      "title": "CNN Indonesia Connected"
     },
     {
       "time": "02:00WIB",
-      "title": "King of the Jungle"
+      "title": "King Of The Jungle"
     },
     {
       "time": "02:20WIB",
@@ -1099,7 +1031,7 @@
       "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal TRANSTV"
     },
     {
-      "time": "04:30WIB",
+      "time": "04:20WIB",
       "title": "Bajaj Bajuri"
     },
     {
@@ -1112,27 +1044,15 @@
     },
     {
       "time": "07:30WIB",
-      "title": "Good Morning Week-end"
+      "title": "CNN Indonesia Good Morning"
     },
     {
       "time": "08:30WIB",
-      "title": "Dokter Traveler"
-    },
-    {
-      "time": "09:00WIB",
-      "title": "Sahabat Cantik"
-    },
-    {
-      "time": "09:30WIB",
-      "title": "Celebrity On Vacation"
+      "title": "Pagi-Pagi Ambyar"
     },
     {
       "time": "10:00WIB",
-      "title": "Masak Masak"
-    },
-    {
-      "time": "10:30WIB",
-      "title": "Strong Woman"
+      "title": "Siapa Mau Jadi Juara"
     },
     {
       "time": "11:00WIB",
@@ -1140,15 +1060,7 @@
     },
     {
       "time": "12:30WIB",
-      "title": "I-Pedia"
-    },
-    {
-      "time": "13:00WIB",
-      "title": "Kuali Barbar"
-    },
-    {
-      "time": "13:30WIB",
-      "title": "Undercover"
+      "title": "Brownis - Obrowlan Manis"
     },
     {
       "time": "14:00WIB",
@@ -1156,49 +1068,45 @@
     },
     {
       "time": "15:00WIB",
-      "title": "Insert Insvestigasi"
+      "title": "Insert Today"
     },
     {
       "time": "16:00WIB",
-      "title": "Suara Hati"
+      "title": "CNN Indonesia News Update"
     },
     {
       "time": "16:30WIB",
       "title": "Dream Box Indonesia"
     },
     {
-      "time": "17:15WIB",
-      "title": "RIng-RIng Show"
-    },
-    {
-      "time": "18:15WIB",
+      "time": "17:30WIB",
       "title": "Bikin Laper"
     },
     {
-      "time": "19:00WIB",
+      "time": "18:30WIB",
       "title": "Insert Story"
     },
     {
-      "time": "20:00WIB",
+      "time": "19:30WIB",
       "title": "Dunia Punya Cerita"
     },
     {
-      "time": "20:45WIB",
+      "time": "20:15WIB",
       "title": "Tanpa Batas"
     },
     {
       "time": "21:00WIB",
-      "title": "Bioskop Trans TV : Angels and Demons"
+      "title": "Bioskop Trans TV - TBA"
     },
     {
       "time": "23:00WIB",
-      "title": "Bioskop Trans TV : Escobar: Paradise Lost"
+      "title": "Bioskop Trans TV - TBA"
     }
   ],
   "TVONE": [
     {
       "time": "00:00WIB",
-      "title": "AB Shop"
+      "title": "Jejak Pemilu"
     },
     {
       "time": "00:30WIB",
@@ -1217,10 +1125,6 @@
       "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal TVONE"
     },
     {
-      "time": "02:00WIB",
-      "title": "Kabar Petang"
-    },
-    {
       "time": "03:00WIB",
       "title": "Kabar Utama 2"
     },
@@ -1230,7 +1134,7 @@
     },
     {
       "time": "04:00WIB",
-      "title": "Tausyiah Subuh"
+      "title": "Kabar Arena Pagi"
     },
     {
       "time": "04:30WIB",
@@ -1238,7 +1142,7 @@
     },
     {
       "time": "06:00WIB",
-      "title": "Kabar Arena Pagi"
+      "title": "Kabar Arena Pagi 2"
     },
     {
       "time": "06:30WIB",
@@ -1286,15 +1190,15 @@
     },
     {
       "time": "20:00WIB",
-      "title": "Indonesia Business Forum"
+      "title": "Fakta"
     },
     {
       "time": "21:00WIB",
-      "title": "Kabar Hari Ini"
+      "title": "Kabar Utama 2"
     },
     {
       "time": "22:00WIB",
-      "title": "Genosida Di Bawah Langit Gaza"
+      "title": "Menyingkap Tabir"
     },
     {
       "time": "22:30WIB",
@@ -1312,23 +1216,27 @@
     },
     {
       "time": "00:30WIB",
-      "title": "Kethoprak Milenial"
+      "title": "Flashback"
+    },
+    {
+      "time": "01:00WIB",
+      "title": "SOS"
     },
     {
       "time": "02:00WIB",
-      "title": "Bakat Orang Muda"
-    },
-    {
-      "time": "03:00WIB",
-      "title": "Inspirasi Indonesia"
+      "title": "Kongkow On The Air"
     },
     {
       "time": "13.00WIB",
       "title": "Jadwal TV selengkapnya di JadwalTV.Net - Jadwal TVRI"
     },
     {
+      "time": "03:00WIB",
+      "title": "Inspirasi Indonesia"
+    },
+    {
       "time": "03:30WIB",
-      "title": "Ensiklopedi Islam"
+      "title": "The Cities of Faith"
     },
     {
       "time": "04:00WIB",
@@ -1360,11 +1268,11 @@
     },
     {
       "time": "09:03WIB",
-      "title": "Ayo Ke Museum"
+      "title": "Mari Menggambar"
     },
     {
       "time": "09:30WIB",
-      "title": "OTO Screen"
+      "title": "Halo Dokter"
     },
     {
       "time": "10:00WIB",
@@ -1372,7 +1280,7 @@
     },
     {
       "time": "10:03WIB",
-      "title": "Olahraga Tradisional"
+      "title": "Halo Dokter"
     },
     {
       "time": "10:30WIB",
@@ -1384,7 +1292,7 @@
     },
     {
       "time": "11:03WIB",
-      "title": "Minggu Misa"
+      "title": "Seblak Show"
     },
     {
       "time": "12:00WIB",
@@ -1392,7 +1300,11 @@
     },
     {
       "time": "13:00WIB",
-      "title": "Kajian Islami"
+      "title": "Saba Desa"
+    },
+    {
+      "time": "13:30WIB",
+      "title": "Tekno Tani"
     },
     {
       "time": "14:00WIB",
@@ -1412,11 +1324,11 @@
     },
     {
       "time": "15:03WIB",
-      "title": "VOA Reportase Weekend"
+      "title": "Katolik : Mimbar Agama"
     },
     {
       "time": "15:30WIB",
-      "title": "Jadi Tahu"
+      "title": "Tapal Batas"
     },
     {
       "time": "16:00WIB",
@@ -1424,11 +1336,7 @@
     },
     {
       "time": "17:00WIB",
-      "title": "Topik Sepekan"
-    },
-    {
-      "time": "17:30WIB",
-      "title": "Laporan Internasional"
+      "title": "Sketsa Pemilu"
     },
     {
       "time": "18:00WIB",
@@ -1436,11 +1344,11 @@
     },
     {
       "time": "19:00WIB",
-      "title": "Jelajah Sains : Indonesia Raya"
+      "title": "Peta Politik Nasional"
     },
     {
-      "time": "19:30WIB",
-      "title": "Rumah Musik Indonesia"
+      "time": "20:00WIB",
+      "title": "ZOOM: Zona Orang Muda"
     },
     {
       "time": "21:00WIB",
@@ -1448,15 +1356,15 @@
     },
     {
       "time": "21:30WIB",
-      "title": "Playlist"
+      "title": "Kenangan Masa"
     },
     {
       "time": "22:30WIB",
-      "title": "Namaku Emilia"
+      "title": "Pengen Beken"
     },
     {
       "time": "23:30WIB",
-      "title": "The Greatest of All Time"
+      "title": "Monitor Olahraga"
     }
   ]
 }

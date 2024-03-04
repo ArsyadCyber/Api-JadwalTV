@@ -1,27 +1,30 @@
 const express = require('express');
 const app = express();
-const { main } = require('./scrape'); // Pastikan ini sesuai dengan lokasi file index.js Anda
+const fs = require ('fs');
+const { main } = require('./scrape'); // Pastikan path benar
+const port = process.env.PORT || 3000;
 
-// Panggil fungsi main untuk menjalankan scraping saat server dimulai
-main();
+// Middleware untuk parsing JSON dan handling CORS
+app.use(express.json());
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  next();
+});
 
+// Endpoint untuk mendapatkan jadwal TV
 app.get('/api/jadwal', (req, res) => {
-  const fs = require('fs');
-
-  // Membaca file jadwaltv.json dan mengirimkan isi sebagai response
-  fs.readFile('jadwaltv.json', (err, data) => {
+  fs.readFile('jadwaltv.json', 'utf8', (err, data) => {
     if (err) {
-      res.status(500).send('Error reading schedule file');
-      return;
+      res.status(500).send('Terjadi kesalahan saat membaca file');
+    } else {
+      res.send(data);
     }
-    res.setHeader('Content-Type', 'application/json');
-    res.send(data);
   });
 });
 
-// Vercel akan mengatur port secara otomatis
-app.listen(process.env.PORT || 3000, () => {
-  console.log('Server is running');
+// Menjalankan server
+app.listen(port, () => {
+  console.log(`Server berjalan di http://localhost:${port}`);
+    main(); // Memanggil fungsi scraping saat server menyala
 });
-
-module.exports = app;
